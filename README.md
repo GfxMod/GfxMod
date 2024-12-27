@@ -1,5 +1,8 @@
-![](https://img.shields.io/badge/GfxMod-444444?&style=for-the-badge)
-![](https://img.shields.io/badge/Saint_Petersburg_State_University_of_Aerospace_Instrumentation-005aaa)
+<img height=40 src="https://img.shields.io/badge/GfxMod-444444?&style=for-the-badge" alt="GfxMod">
+
+<p></p>
+
+<a href="https://guap.ru/en/"><img align="center" src="https://img.shields.io/badge/Saint_Petersburg_State_University_of_Aerospace_Instrumentation-005aaa"></a>
 
 <hr>
 
@@ -12,6 +15,7 @@
 <p>
 <img height= "25" src="https://img.shields.io/badge/CU-DB44E8?style=for-the-badge&label=80%%20GRANT&labelColor=DB44E8&color=3044FF" alt="Recipient of an 80% grant to the Central University"> &nbsp; Recipient of an 80% grant to the Central University
 </p>
+
 <hr>
 
 ## About Me
@@ -19,6 +23,8 @@
 Hi! I am an Android developer. Since 2021, I have been actively involved in the ForBlitz project, contributing as one of its main developers. Starting in 2022, I embarked on creating my own application, ForBlitz Statistics, which has achieved significant success with over 50,000 downloads on Google Play.
 
 I specialize in designing and developing scalable, user-friendly Android applications using modern technologies. My focus is on creating efficient and elegant solutions to complex problems, leveraging tools. My passion lies in continuous learning and refining my craft to deliver top-quality applications that make a difference.
+
+<hr>
 
 ##  Tech Stack
 
